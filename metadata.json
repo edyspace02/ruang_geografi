@@ -1,0 +1,6 @@
+{
+  "name": "Ruang Geografi",
+  "description": "Platform pembelajaran Geografi komprehensif: CBT Ujian Online, Bank Soal, Materi Interaktif, Apresiasi Bintang & Game Edukasi Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
